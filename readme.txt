@@ -1,18 +1,13 @@
-Hi,
-this program will help you recover your Blue Prism password.
+Cześć,
+ten program pomoże Ci odzyskać hasło do Blue Prism'a.
 
-Just run 'Blue Prism Password Recovery.exe' and the program will do its thing.
+Wystarczy, że odpoalisz 'Blue Prism Password Recovery.exe', a program zrobi swoje.
 
-Your new login details:
+Twoje nowe dane logowania:
 Login: admin
-Password: admin
+Hasło: admin
 
-If you have any problems please contact me, I will be happy to help:
-jakub@kocmouch.xyz or jakubkaminski@duck.com
+W razie problemów proszę o kontakt, chętnie pomogę:
+jakub@kocmouch.xyz lub jakubkaminski@duck.com
 
-IMPORTANT!
-Open Blue Prism before using the programme!
-
-Have a nice day ;)
-
-Tutorial: https://youtu.be/zTfR7zmkZ18
+Miłego dnia ;)
